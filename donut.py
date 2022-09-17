@@ -11,14 +11,19 @@
 # probabilities of a RNA sequence using a coolwarm colormap
 #
 ###########################################################
+# toolbox library:
+# pip install git+https://github.com/vincbeaulieu/minimal-toolbox.git
+
+import toolbox
+###########################################################
 
 import networkx as nx
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import numpy as np
 
-from ML.diagram.plot_style import plot_style
-from ML.py_files import toolbox
+from plot_style import plot_style
+
 
 ###########################################################
 # Plot style (background color)
