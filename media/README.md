@@ -1,6 +1,8 @@
 ## Output Example:    
-![](media/black_style.png)
-![](media/white_style.png)
-![](media/grey_style.png)
-![](media/grey_constant_thickness.png)
-  
+### Black/White/Grey background with Relative Edges Thickness
+![](black_style.png)
+![](white_style.png)
+![](grey_style.png)
+
+### Grey background with Constant Edges Thickness
+![](grey_constant_thickness.png)
