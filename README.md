@@ -29,5 +29,7 @@ These modifications are:
 ![](media/black_style.png)
 ![](media/white_style.png)
 ![](media/grey_style.png)
+
+### Grey background and Constant Edges Thickness
 ![](media/grey_constant_thickness.png)
   
