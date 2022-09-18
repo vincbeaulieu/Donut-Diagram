@@ -23,7 +23,7 @@ These modifications are:
 - The styles parameters:  
     - Relative edge thickness enabled/disabled (parameter: edge_thickness_control)  
     - Edge thickness multiplier (parameter: weight)  
-    - Plot style white/gray/black  
+    - Plot style white/grey/black  
     
 ## Output Example:    
 ![](media/black_style.png)
