@@ -26,10 +26,11 @@ These modifications are:
     - Plot style white/grey/black  
     
 ## Output Example:    
+### Black/White/Grey background with Relative Edges Thickness
 ![](media/black_style.png)
 ![](media/white_style.png)
 ![](media/grey_style.png)
 
-### Grey background and Constant Edges Thickness
+### Grey background with Constant Edges Thickness
 ![](media/grey_constant_thickness.png)
   
