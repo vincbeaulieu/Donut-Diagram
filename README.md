@@ -34,4 +34,4 @@ These modifications are:
 ### Grey background with Constant Edges Thickness
 ![](media/grey_constant_thickness.png)
 
-This software is licensed under the MIT license. See the file "LICENSE" for more details.
+This software is licensed under the MIT license. See the "LICENSE" file for more details.
