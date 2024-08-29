@@ -1,4 +1,5 @@
-# Donut Diagram   
+# Probabilistic RNA Folding Visualization Tool
+## Donut Diagram   
   
 File: donut.py  
 Author: Vincent Beaulieu  
